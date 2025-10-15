@@ -123,8 +123,6 @@ With this system:
 
 ## 🖼️ System Interface Preview
 
-> You can upload screenshots manually after adding files in your repository.  
-> Replace the image paths below with your uploaded images.
 
 ### 🏠 Parent registration
 ![Dashboard Screenshot](regsiter.png)
