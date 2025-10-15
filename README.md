@@ -127,24 +127,15 @@ With this system:
 > Replace the image paths below with your uploaded images.
 
 ### 🏠 Main Dashboard
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](register.png)
 
 ### 👩‍🏫 Parent View
-![Parent View Screenshot](images/parent_view.png)
+![Parent View Screenshot](arrange.png)
 
 ### 🚗 Driver Management
-![Driver Management Screenshot](images/driver_management.png)
-
-### 💵 Payment Records
-![Payment Records Screenshot](images/payment.png)
+![Driver Management Screenshot](driver.png)
 
 ---
-
-## 📊 System Architecture (Optional)
-You can upload your architecture diagram or flowchart here:
-
-![System Architecture](images/architecture_diagram.png)
-
 
 ## 🪪 License
 
