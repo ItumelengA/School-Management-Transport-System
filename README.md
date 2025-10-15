@@ -126,13 +126,13 @@ With this system:
 > You can upload screenshots manually after adding files in your repository.  
 > Replace the image paths below with your uploaded images.
 
-### 🏠 Main Dashboard
-![Dashboard Screenshot](register.png)
+### 🏠 Parent registration
+![Dashboard Screenshot](regster.png)
 
-### 👩‍🏫 Parent View
+### 👩‍🏫 Parent arranget transport
 ![Parent View Screenshot](arrange.png)
 
-### 🚗 Driver Management
+### 🚗 Driver Profile
 ![Driver Management Screenshot](driver.png)
 
 ---
