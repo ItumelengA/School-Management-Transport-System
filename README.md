@@ -127,13 +127,13 @@ With this system:
 > Replace the image paths below with your uploaded images.
 
 ### 🏠 Parent registration
-![Dashboard Screenshot](regster.png)
+![Dashboard Screenshot](regsiter.png)
 
 ### 👩‍🏫 Parent arranget transport
 ![Parent View Screenshot](arrange.png)
 
 ### 🚗 Driver Profile
-![Driver Management Screenshot](driver.png)
+![Driver Management Screenshot](driver1.png)
 
 ---
 
